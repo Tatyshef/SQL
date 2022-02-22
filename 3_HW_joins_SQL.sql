@@ -1,3 +1,4 @@
+add
 --SQL HomeWork 3. Joins
 
 select * from employees;
